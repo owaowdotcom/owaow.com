@@ -1,0 +1,27 @@
+# OWAOW
+VERSION="2.20.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=["GASMAMUWYLFOBO4YKFQV5GZKDPG6YYQ6O5N6FSFRXHAZXICVULAOWAOW"]
+
+[DOCUMENTATION]
+ORG_NAME="PT Owaow Swasembada Teknologi"
+ORG_URL="https://owaow.com"
+ORG_LOGO="https://owaow.com/logo.webp"
+ORG_DESCRIPTION="PT Owaow Swasembada Teknologi is Indonesian MSME-based company that has a license from The Ministry of Law and Human Rights of the Republic of Indonesia with SK Number : AHU-023193.AH.01.30.Tahun 2022, where the focus and orientation of the company is online businesses, crypto currency investments and blockchain technology developments."
+ORG_PHYSICAL_ADDRESS="Jetis, Peniron, Pejagoan, Kebumen, Jawa Tengah, Indonesia 54361"
+ORG_TWITTER="owaowdotcom"
+ORG_GITHUB="owaowdotcom"
+ORG_OFFICIAL_EMAIL="info@owaow.com"
+
+[[CURRENCIES]]
+code="OWAOW"
+issuer="GASMAMUWYLFOBO4YKFQV5GZKDPG6YYQ6O5N6FSFRXHAZXICVULAOWAOW"
+status="live"
+display_decimals=2
+image="https://owaow.com/logo.webp"
+name="OWAOW"
+desc="There will be only 100,000,000,000 OWAOW existed on SDEX (Stellar Decentralized Exchange). 1 OWAOW equivalent with 1,000 RUPIAH. How to purchase RUPIAH using XLM and convert it into OWAOW ? All detailed informations could be found at https://owaow.com"
+conditions="OWAOW will generate dividends as much as 2.5% per month for 10 years."
+redemption_instructions="The dividends send regularly to investor wallets every month."
+fixed_number=100000000000
